@@ -1,5 +1,4 @@
 " Visual
-syntax on
 set number
 set showcmd
 set wildmenu
